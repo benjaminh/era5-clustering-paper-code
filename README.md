@@ -1,7 +1,7 @@
-Analysis of storm events in Pays de la Loire region (NW France) through clustering of ERA5 long-term time series
+Extreme-event clustering from ERA5 metocean hindcasts (1940-2023) along northwestern Atlantic coast
 =====
 
-Jupyter notebooks and dataset to be used for results reproductibility of the scientific paper "Analysis of storm events in Pays de la Loire region (NW France) through clustering of ERA5 long-term time series" by Hervy et al.
+Jupyter notebooks and dataset to be used for results reproductibility of the scientific paper "AExtreme-event clustering from ERA5 metocean hindcasts (1940-2023) along northwestern Atlantic coast" by Hervy et al.
 
 ## Description
 
